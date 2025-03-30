@@ -1,7 +1,8 @@
 export default function Dashboard() {
   return (
     <>
-        Test.
+        <div className="h-screen w-screen grid auto-rows-auto bg-red-500">
+        </div>
     </>
   );
 }
