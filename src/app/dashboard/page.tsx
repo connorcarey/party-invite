@@ -7,7 +7,7 @@ export default function Dashboard() {
         <h1 className="text-2xl font-bold text-neutral-500">Dashboard</h1>
         <div className="w-full h-[4px] bg-neutral-300 my-4 mb-4"></div>
         <div className="flex-1 overflow-auto">
-            <div className="flex flex-wrap gap-6 justify-center sm:justify-start m-2">
+            <div className="flex flex-wrap gap-6 justify-center md:justify-start m-2">
                 <NewInviteCard />
                 <InviteCard />
                 <InviteCard />
